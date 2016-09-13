@@ -1,5 +1,5 @@
 # Personal Website
-This is my personal website wich I'll upload until it is finished.
+This is my personal website which I'll upload until it is finished.
 
 ### Topics
 
